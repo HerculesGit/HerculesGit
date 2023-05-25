@@ -19,7 +19,7 @@ My favorite technologies are:
 - <h3><img src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s200/image04.png" width="32">&nbsp;&nbsp;Kotlin (Android)</h3>
 - <h3><img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" width="24"> &nbsp;&nbsp;Swift</h3>
 - <h3><img src="https://nodejs.org/static/images/logo.svg" width="40"> &nbsp;&nbsp;Node</h3> 
-- <h3><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="32"> &nbsp;&nbsp;Docker (In progress)</h3>
+<!-- - <h3><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="32"> &nbsp;&nbsp;Docker (In progress)</h3> -->
 
 
 ---
